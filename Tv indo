@@ -1,5 +1,5 @@
 EXTINF:-1 tvg-logo="http://dusktill.masuk.web.id/img/gtv.png"group-title="TV Nasional",GTV
-https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u
+https://goldenlivektv.com/Live_TV/Channel_Gtv.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" group-title="TV Nasional" tvg-logo="https://i.ibb.co/BZKTz4y/rctilogo.png",RCTI
 https://goldenlivektv.com/Live_TV/Channel_Rcti.m3u8
 #EXTINF:-1 tvg-logo="https://cdn4.mbahnunungonline.net/img/AWnnWow.png?v=1.1.1.1.png" group-title="TV Nasional",MNC
